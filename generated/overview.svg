@@ -1,7 +1,7 @@
 <svg id="gh-dark-mode-only" width="340" height="200" xmlns="http://www.w3.org/2000/svg">
 <style>
 svg {
-  font-family: font-family: 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif
+  font-family: 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif;
   font-size: 14px;
   line-height: 21px;
 }
@@ -73,7 +73,7 @@ td {
 <rect x="5" y="0" id="background" />
 <g>
 <foreignObject x="21" y="21" width="318" height="168">
-<div xmlns="http://www.w3.org/1999/xhtml" style="height:100%;display:flex;align-items:center">
+<div xmlns="http://www.w3.org/1999/xhtml" style="height:150px;display:flex;align-items:center">
 
 <table>
 <thead><tr style="transform: translateX(0);">
