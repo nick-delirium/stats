@@ -70,7 +70,7 @@ td {
 
 </style>
 <g>
-<rect x="5" y="1.5" id="background" />
+<rect x="1.5" y="1.5" id="background" />
 <g>
 <foreignObject x="21" y="21" width="318" height="168">
 <div xmlns="http://www.w3.org/1999/xhtml" style="height:150px;display:flex;align-items:center">
